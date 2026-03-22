@@ -1,4 +1,4 @@
-# North Forge — Legora Website Replica
+# North Forge — Legora Website
 
 A full-stack React web application that replicates the [Legora](https://legora.com) legal technology marketing website. Built with a **Minimalist Elegance** design philosophy to showcase how AI-powered tools can modernise legal workflows.
 
