@@ -1,6 +1,6 @@
 # North Forge — Legora Website
 
-A Next.js web application that replicates the [Legora](https://legora.com) legal technology marketing website. Built with a **Minimalist Elegance** design philosophy to showcase how AI-powered tools can modernise legal workflows.
+A Next.js web application that showcase how AI-powered tools can modernise legal workflows.
 
 ---
 
