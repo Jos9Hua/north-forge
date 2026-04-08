@@ -1,5 +1,7 @@
+"use client";
+
 import { Button } from "@/components/ui/button";
-import { ArrowRight, ChevronDown } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import { useState } from "react";
 
 /**
@@ -283,7 +285,7 @@ export default function Home() {
                 </li>
                 <li>
                   <a href="#" className="hover:text-foreground transition-colors">
-                    M&A
+                    M&amp;A
                   </a>
                 </li>
                 <li>
